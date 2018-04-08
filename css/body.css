@@ -1,0 +1,23 @@
+/* Body */
+.col-md-3 img {
+  display: block;
+  margin: auto;
+}
+.subsection {
+  text-align: center;
+}
+.subsection .jumbotron {
+  padding: 25px 0px;
+}
+.catch-phrase {
+  font-size: 27px;
+}
+.project-footer a {
+  text-decoration: none;
+}
+.project-footer .repo {
+  margin-right: 55px;
+}
+.badge-pill {
+  color: white;
+}
