@@ -1,0 +1,24 @@
+/* Header */
+.header {
+  margin-top: 35px;
+  text-align: center;
+}
+.face {
+  margin-top: 15px;
+  line-height: normal;
+}
+.face .headshot {
+  border-radius: 50%;
+}
+#bio {
+  font-size: 15px;
+}
+.icons-container {
+  margin-top: 38px;
+}
+.icons a {
+  text-decoration: none;
+}
+.icon {
+  margin: 0px 10px 30px 10px;
+}
